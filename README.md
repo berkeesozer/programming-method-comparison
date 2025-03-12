@@ -1,4 +1,4 @@
-# Comparison-of-greedy-programming-and-dynamic-programming-on-army-creation-simulation
+# Comparison of greedy programming and dynamic programming on army creation simulation
 This study offers a brief comparison between some algorithms.
 
 - Dynamic Programming
