@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Berke_Sozer_2020510065 {
+public class Compare {
 
 	public static void readAndFillArray(String fileName,ArrayList<Piece> pieces) throws IOException
 	{
